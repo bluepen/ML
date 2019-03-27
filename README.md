@@ -1,3 +1,3 @@
 # python
-something about python.
-this is a primary student's github.com,you can see sonething about python,such as crawler spider and some other codes.
+这个文件夹中存放的我平时写的一些Python文件，包括一些scrapy爬虫框架文件，大多数都是一些爬虫，用来爬取一些网站上的数据
+如果您能下载查看我的代码，那将是我的荣幸，我们可以互相交流和学习，我的微信是15959963313，如果您有什么问题想问我的话，或者您觉得我的代码有那些错误以及有带需要改进的地方，欢迎您和我进行交流，本人非常欢迎您与我交流。
